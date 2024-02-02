@@ -1,0 +1,9 @@
+# `laravel-excel` could not find "zip member"
+
+The `laravel-excel` package probably wants access to the zip library so that it can read `ods` and `xml` files.
+
+To satisfy this requirement, I made two modifications to the Dockerfile. (I am using PHP 8.2 from `php:8-2-fpm).
+- added `libzip-dev` to the `RUN apt-get install` line
+- added `zip` to the `RUN docker-php-ext-install` line.
+
+It took some trial and error to discover that `libzip-dev` was the library I needed to install and that `zip` was the dependency I needed to pass to `docker-php-ext-install`. In my opinion, there is not documentation available online to explain which versions go with which configurations.
