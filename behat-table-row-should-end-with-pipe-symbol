@@ -1,0 +1,12 @@
+
+Got this message when running Behat test:
+
+```
+Expected Step, but got text: "      | transaction_date | security_number | trade_action | position_effect | security_description      | quantity | price | commission | us_tax | net_transaction_amount" in file: /var/www/html/features/Confirmations/Import.feature
+```
+
+Turns out that I needed to add a pipe symbol at the end of the row header. It should look like this:
+```
+      | transaction_date | security_number | trade_action | position_effect | security_description      | quantity | price | commission | us_tax | net_transaction_amount |
+
+```

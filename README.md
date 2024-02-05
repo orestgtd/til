@@ -1,6 +1,9 @@
 # til
 A repository for Today I Learned topics.
 
+## Behat
+- [Behat table row should end with pipe symbol](behat-table-row-should-end-with-pipe-symbol)
+
 ## Docker
 
 ### PHP
