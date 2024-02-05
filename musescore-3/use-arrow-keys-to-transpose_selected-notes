@@ -1,0 +1,10 @@
+See [Transposition](https://musescore.org/en/handbook/3/transposition)
+
+```
+## Manual transposition
+1. Select the notes that you wish to transpose;
+2. Use any of the following options:
+   - To transpose chromatically (i.e. one semitone at a time): Press ↑ or ↓. Repeat as required.
+   - To transpose diatonically (i.e. one scale degree at a time): Press Alt+Shift+↑ or ↓. Repeat as required.
+   - To transpose by an octave: Press Ctrl+↑ or ↓ (Mac: Cmd+↑ or ↓).
+```
