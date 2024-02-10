@@ -1,0 +1,13 @@
+There are eight letters that can be represented by three bits in Morse code.
+
+- These four codes start with a dot
+    - R (Romeo) -> dot dash dot
+    - S (Sierrs) -> dot dot dot
+    - U (Uniform) -> dot dot dash
+    - W (Whiskey) -> dot dash dash
+
+- These four codes start with a dash
+    - D (Delta) -> dash dot dot
+    - G (Golf) -> dash dash dot
+    - K (Kilo) -> dash dot dash
+    - O (Oscar) -> dash dash dash

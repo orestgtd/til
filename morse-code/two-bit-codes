@@ -1,0 +1,12 @@
+There are four letters that can be represented by two bits in Morse code.
+
+- These two codes start with a dot
+    - A (Alfa) -> dot dash
+    - I (India) -> dot dot
+
+- These two codes start with a dash
+    - M (Michael) -> dash dash
+    - N (November) -> dash dot
+
+Fun fact:
+- [The music for the iconic Mission: Impossible theme](morse-code/mission-impossible) is based on the Morse code for the letters MI.
