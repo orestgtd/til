@@ -1,0 +1,20 @@
+# How to Change and Display Units of Measurement
+
+## Reference
+- [How to Change and Display Units of Measurement in BLENDER (Micro Tip)](https://youtu.be/oWseWAoeMls?si=0h7kGnp_20OxoyPz), Brandon's Drawings
+
+## Change units of measurement
+- Scene properties > Units > Unit System
+    - None ("Blender" units)
+    - Metric (metric system)
+    - Imperial (feet, inches)
+    - etc
+
+## Display measurements
+- Overlays menu
+    - Measurements (near the bottom)
+        - Toggle on and off four measurements
+            - Edge Length
+            - Edge Angle
+            - Face Area
+            - Face Angle

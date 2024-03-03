@@ -1,0 +1,22 @@
+# Understanding object origins
+
+## References
+- [Understanding Object Origins in Blender](https://youtu.be/9gn_1V1sCS8?si=KwUZ0AShULpYBmYu), Ryan King Art
+- [How to Move the Origin Point in Blender With Simple Techniques](https://youtu.be/9bxOKHx2VuU?si=Fg1CUcC6e_70DTyh), FlippedNormals
+
+## Object mode
+- When moving the object in Object mode, the origin moves with the object.
+- In other words, the origin maintains its relative position to the object (e.g. centre of the cube)
+
+### Set Origin
+- available through the Object menu when in Object mode
+- Origin to Geometry - sets the origin of the object to the "centre" of the object's geometry (e.g. the centre of a cube)
+- Origin to 3D Cursor - sets the origin of the object to the location of the 3D cursor
+
+## Edit mode
+- When moving the object in Edit mode, the origin stays in place while the object moves.
+- Thus, moving the object in Edit mode changes the position of the origin relative to the object (e.g. moving the origin of a cuve from the centre to one of its corners).
+
+## Toggling the visibility of an object's origin
+- The origin of an object appears as an orange dot.
+- The visibility of the dot which represents an object's origin may be toggled on or off through the Show Overlays menu.
