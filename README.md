@@ -12,6 +12,9 @@ A repository for Today I Learned topics.
 
 ## Docker
 
+## macOS
+- [How to merge PDFs using Quick Actions](macos/how-to-merge-pdfs-using-quick-actions)
+
 ### PHP
 - [`laravel-excel` could not find "zip member"](laravel-excel-could-not-find-zip-member)
 
