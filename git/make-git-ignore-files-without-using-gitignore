@@ -1,0 +1,3 @@
+# Make Git ignore files without using .gitignore
+
+For a local file that is specific to a particular developer to be excluded from the repository, put its name into the `.git/info/exclude` file instead of into `.gitignore`.

@@ -12,6 +12,9 @@ A repository for Today I Learned topics.
 
 ## Docker
 
+## git
+- [Make Git ignore files without using .gitignore](git/make-git-ignore-files-without-using-gitignore)
+
 ## macOS
 - [How to merge PDFs using Quick Actions](macos/how-to-merge-pdfs-using-quick-actions)
 
